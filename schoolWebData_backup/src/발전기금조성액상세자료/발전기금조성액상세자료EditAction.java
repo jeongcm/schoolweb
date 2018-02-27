@@ -108,16 +108,16 @@ public class 발전기금조성액상세자료EditAction extends HttpServlet {
 
 	public float 발전기금조성액(int 전임교원수, int 발전기금모금액, int 지정기부금) {
 
-		if (발전기금모금액 == 0 && 지정기부금 == 0) {
+		/*if (발전기금모금액 == 0 && 지정기부금 == 0) {
 			return 0;
-		} else {
+		} else {*/
 			float 발전기금조성액 = (float) ((발전기금모금액 - 지정기부금) / (전임교원수 * 1.0));
 			
 			System.out.println("전임교원수 :" + 전임교원수 + " 발전기금모금액 :" + 발전기금모금액 + " 지정기부금 :" + 지정기부금 + " 발전기금조성액 :" + 발전기금조성액);
 			
 			return 발전기금조성액;
 		}
-	}
+	
 
 	public void 비율재계산() {
 		년도 년도class = new 년도();

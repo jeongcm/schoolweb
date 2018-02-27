@@ -1,0 +1,1000 @@
+    5  vim routes/faculty.js
+    6  pm2 restart 0
+    7  vim routes/faculty.js
+    8  pm2 restart 0
+    9  vim routes/faculty.js
+   10  pm2 restart 0
+   11  vim routes/faculty.js
+   12  pm2 restart 0
+   13  vim routes/faculty.js
+   14  pm2 restart 0
+   15  vim routes/faculty.js
+   16  pm2 restart 0
+   17  vim routes/faculty.js
+   18  pm2 restart 0
+   19  vim routes/faculty.js
+   20  pm2 restart 0
+   21  vim routes/faculty.js
+   22  pm2 restart 0
+   23  vim routes/faculty.js
+   24  pm2 restart 0
+   25  vim routes/faculty.js
+   26  pm2 restart 0
+   27  vim routes/faculty.js
+   28  pm2 restart 0
+   29  vim routes/faculty.js
+   30  pm2 restart 0
+   31  vim views/faculty2.ejs
+   32  vim routes/faculty.js
+   33  pm2 restart 0
+   34  vim views/faculty2.ejs
+   35  vim views/faculty.ejs
+   36  vim routes/faculty.js
+   37  pm2 restart 0
+   38  vim routes/faculty.js
+   39  pm2 restart 0
+   40  vim routes/faculty.js
+   41  pm2 restart 0
+   42  vim routes/faculty.js
+   43  pm2 restart 0
+   44  vim routes/faculty.js
+   45  pm2 restart 0
+   46  vim routes/faculty.js
+   47  vim views/faculty2.ejs
+   48  vim views/faculty_backup.ejs
+   49  vim routes/faculty.js
+   50  pm2 restart 0
+   51  vim routes/faculty.js
+   52  pm2 restart 0
+   53  vim routes/faculty.js
+   54  pm2 restart 0
+   55  vim routes/faculty.js
+   56  pm2 restart 0
+   57  vim routes/faculty.js
+   58  pm2 restart 0
+   59  vim routes/faculty.js
+   60  pm2 restart 0
+   61  vim routes/faculty.js
+   62  pm2 restart 0
+   63  vim routes/faculty.js
+   64  pm2 restart 0
+   65  vim routes/faculty.js
+   66  pm2 restart 0
+   67  vim routes/faculty.js
+   68  pm2 restart 0
+   69  vim routes/faculty.js
+   70  pm2 restart 0
+   71  vim routes/faculty.js
+   72  pm2 restart 0
+   73  vim routes/faculty.js
+   74  pm2 restart 0
+   75  vim routes/faculty.js
+   76  pm2 restart 0
+   77  vim routes/faculty.js
+   78  pm2 restart 0
+   79  vim routes/faculty.js
+   80  pm2 restart 0
+   81  vim routes/faculty.js
+   82  pm2 restart 0
+   83  vim routes/faculty.js
+   84  pm2 restart 0
+   85  vim routes/faculty.js
+   86  pm2 restart 0
+   87  vim routes/faculty.js
+   88  pm2 restart 0
+   89  vim routes/faculty.js
+   90  pm2 restart 0
+   91  vim routes/faculty.js
+   92  vim views/faculty2.ejs
+   93  vim views/faculty_backup.ejs
+   94  vim routes/faculty.js
+   95  pm2 restart 0
+   96  vim routes/faculty.js
+   97  pm2 restart 0
+   98  vim routes/faculty.js
+   99  pm2 restart 0
+  100  vim routes/faculty.js
+  101  pm2 restart 0
+  102  vim routes/faculty.js
+  103  pm2 restart 0
+  104  vim routes/faculty.js
+  105  pm2 restart 0
+  106  vim routes/faculty.js
+  107  pm2 restart 0
+  108  vim routes/faculty.js
+  109  vim node_modules/
+  110  cd node_modules/jqgrid/
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd jquery
+  115  ls
+  116  cd src/
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd jquery
+  123  cd ..
+  124  cd jqueryui
+  125  ls
+  126  cd ..
+  127  cd jqgrid/
+  128  ls
+  129  cd css/
+  130  ls
+  131  cd ..
+  132  cd js/
+  133  ls
+  134  cd i18n/
+  135  ls
+  136  pwd
+  137  cd ..
+  138  vim routes/faculty.js
+  139  vim ../views/faculty.ejs
+  140  cd node/loginform
+  141  ls
+  142  vim views/faculty.ejs
+  143  mysql -u -root -p
+  144  vim views/faculty.ejs
+  145  mysql -u -root -p
+  146  mysql -u root -p
+  147  ls
+  148  cd node
+  149  cd loginform
+  150  ls
+  151  cd routes/
+  152  ls
+  153  cd ..
+  154  vim views/faculty.ejs
+  155  pm2 restart 0
+  156  vim views/faculty.ejs
+  157  pm2 restart 0
+  158  vim views/faculty.ejs
+  159  cd ..
+  160  ls
+  161  cd loginform/
+  162  ls
+  163  vim package.json
+  164  cd public/
+  165  ls
+  166  cd ..
+  167  cd node_modules/
+  168  ls
+  169  cd ..
+  170  ls routes/
+  171  vim views/faculty.ejs
+  172  cd node
+  173  cd loginform
+  174  ls
+  175  cd routes/
+  176  ls
+  177  vim faculty.js
+  178  pm2 log
+  179  ls
+  180  ls -al
+  181  rm faculty2.ejs faculty_backup.ejs
+  182  ls
+  183  rm faculty2.ejs 
+  184  ls
+  185  ls- al
+  186  ls -al
+  187  cp students.ejs bsd.ejs
+  188  vim bsd.ejs
+  189  ls
+  190  cd node
+  191  ls
+  192  cd loginform/
+  193  ls
+  194  cd routes/
+  195  ls
+  196  vim faculty.js 
+  197  ls
+  198  cd ..
+  199  ls
+  200  cd views/
+  201  ls
+  202  vi faculty.ejs 
+  203  vim faculty.ejs
+  204  cd ..
+  205  ls
+  206  cd public/
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd routes/
+  211  ls
+  212  vi faculty.js 
+  213  vim faculty.js 
+  214  ls
+  215  cd ..
+  216  ls
+  217  cd views/
+  218  ;s
+  219  ls
+  220  vi faculty.ejs 
+  221  vim faculty.ejs 
+  222  ls
+  223  cd ..
+  224  ls
+  225  cd routes/
+  226  ls
+  227  vim faculty.js 
+  228  cd ..
+  229  ls
+  230  cd public/
+  231  ls
+  232  cd ..
+  233  cd views/
+  234  ls
+  235  vim faculty.ejs 
+  236  cd ..
+  237  ls
+  238  cd routes/
+  239  ls
+  240  vim faculty.js 
+  241  ls
+  242  vim UMD.js
+  243  ls
+  244  vim UMD.js
+  245  ls
+  246  cd ..
+  247  cd views/
+  248  ls
+  249  vim left_banner.ejs 
+  250  ls
+  251  vim dop.ejs 
+  252  ls
+  253  cd ..
+  254  ls
+  255  cd view
+  256  cd views/
+  257  ls
+  258  vim left_banner.ejs 
+  259  ls
+  260  vim left_banner.ejs 
+  261  vim engineer.ejs 
+  262  vim collaborate.ejs 
+  263  ls
+  264  vim left_banner.ejs 
+  265  ls
+  266  vim left_banner.ejs 
+  267  ls
+  268  vim left_banner.ejs 
+  269  ls
+  270  vim left_banner.ejs 
+  271  vim final.ejs 
+  272  ls
+  273  cd node
+  274  ls
+  275  pm2 restart 0
+  276  ls
+  277  cd loginform/
+  278  ls
+  279  vi app.js 
+  280  vim app.js
+  281  ls
+  282  cd routes/
+  283  ls
+  284  vim faculty.js 
+  285  pm2 restart 0
+  286  ls
+  287  cd node
+  288  ls
+  289  cd loginform/
+  290  ls
+  291  cd routes/
+  292  ls
+  293  cd ..
+  294  ls
+  295  cd views/
+  296  ls
+  297  vi faculty.ejs 
+  298  vim faculty.ejs 
+  299  ls
+  300  vi faculty.ejs 
+  301  vim faculty.ejs
+  302  vim faculty.ejs 
+  303  ls
+  304  cd ..
+  305  ls
+  306  cd routes/
+  307  ls
+  308  vim faculty.js 
+  309  cd ..
+  310  ls
+  311  cd routes/
+  312  ls
+  313  cd ..
+  314  cd views/
+  315  ls
+  316  vi UMD.ejs
+  317  vim UMD.ejs
+  318  ls
+  319  vim UMD.ejs 
+  320  vim faculty.ejs 
+  321  ls
+  322  cd ..
+  323  ls
+  324  cd routes/
+  325  ls
+  326  vim faculty.js 
+  327  cd ..
+  328  ls
+  329  cd views/
+  330  ls
+  331  vim faculty.ejs 
+  332  vim students.ejs 
+  333  cd ..
+  334  ls
+  335  vim app.js 
+  336  ls
+  337  cd routes/
+  338  ls
+  339  vim login.js 
+  340  cd ..
+  341  ls
+  342  cd views/
+  343  ls
+  344  vim login.ejs 
+  345  cd ..
+  346  ls
+  347  vim app.js 
+  348  ls
+  349  cd routes/
+  350  ls
+  351  vim faculty.js 
+  352  cd ..
+  353  ls
+  354  cd routes/
+  355  ls
+  356  cd ..
+  357  ls
+  358  cd views/
+  359  ls
+  360  vim faculty.ejs 
+  361  ls
+  362  vim faculty.ejs 
+  363  cd ..
+  364  ls
+  365  vim app.js 
+  366  cd views/
+  367  ls
+  368  vim faculty.ejs 
+  369  pm2 list
+  370  pm2 log
+  371  pm2 restart 0
+  372  pm2 log
+  373  ls
+  374  cd node
+  375  ls
+  376  cd loginform/
+  377  ls
+  378  cd views/
+  379  ls
+  380  vim faculty.ejs 
+  381  cd ..
+  382  ls
+  383  cd routes/
+  384  ls
+  385  vim UMD.js 
+  386  ls
+  387  cd ..
+  388  ls
+  389  cd views/
+  390  ls
+  391  vim faculty.ejs 
+  392  ls
+  393  cd ..
+  394  ls
+  395  cd routes/
+  396  ls
+  397  vim faculty.js 
+  398  ls
+  399  cd ..
+  400  ls
+  401  cd views/
+  402  ls
+  403  vim faculty.ejs 
+  404  vim UMD.ejs 
+  405  ls
+  406  cd ..
+  407  ls
+  408  cd routes/
+  409  ls
+  410  vim UMD.js 
+  411  ls
+  412  cp UMD.js ./students.js
+  413  ls
+  414  :q
+  415  ls
+  416  cd ..
+  417  ls
+  418  cd views/
+  419  ls
+  420  cp UMD.ejs students.ejs
+  421  ls
+  422  vim students.ejs 
+  423  vim students.js
+  424  cd ..
+  425  ls
+  426  cd routes/
+  427  ls
+  428  vim students.js 
+  429  ls
+  430  cp students.js bsd.js
+  431  vim bsd.js 
+  432  cp bsd.js dop.js
+  433  ls
+  434  vim dop.js
+  435  vim faculty.js 
+  436  ls
+  437  vim UMD.js
+  438  vum bsd.js 
+  439  vim bsd.js 
+  440  vim dop.js
+  441  cp dop.js gad.js
+  442  vim gad.js 
+  443  vim dop.js
+  444  vim bsd.js 
+  445  cp gad.js 
+  446  cp gad.js facilities.js
+  447  vim facilities.js 
+  448  cp gad.js finanace.js
+  449  vim finanace.js 
+  450  vim facilities.js 
+  451  vim finanace.js 
+  452  vim facilities.js 
+  453  ls
+  454  cd ..
+  455  ls
+  456  vim app.js 
+  457  ls
+  458  cd views/
+  459  ls
+  460  vim left_banner.ejs 
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd routes/
+  465  ls
+  466  vim dop.js 
+  467  ls
+  468  vim dop.js 
+  469  vim finanace.js 
+  470  vim dop.js 
+  471  cp finanace.js finance.js
+  472  rm finanace.js 
+  473  ls
+  474  rm -r finanace.js 
+  475  ls
+  476  vim finance.js 
+  477  ls
+  478  vim gad.js 
+  479  vim bsd.js 
+  480  ls
+  481  vim facilities.js 
+  482  cp facilities.js professor.js
+  483  vim professor.js 
+  484  cp professor.js lifelong.js
+  485  vim lifelong.js 
+  486  ls
+  487  vim professor.js 
+  488  ls
+  489  L
+  490  ls
+  491  vim lifelong.js 
+  492  cp lifelong.js collaborate.js
+  493  vim collaborate.js 
+  494  cp collaborate.js engineer.js
+  495  ls
+  496  vim engineer.js 
+  497  cp dop.js admission.js
+  498  ls
+  499  vim admission.js 
+  500  cp dop.js library.js
+  501  vim library.js 
+  502  cp library.js news.js
+  503  vim news.js 
+  504  ls
+  505  cp finance.js af.js
+  506  vim students.js 
+  507  rm -r af.js
+  508  cp finance.js ao.js
+  509  cp finance.js ao1.js
+  510  cp finance.js ao2.js
+  511  cp finance.js ao3.js
+  512  cp finance.js ao4.js
+  513  rm -r ao.js
+  514  vim ao1.js 
+  515  vim ao2.js 
+  516  vim ao3.js 
+  517  vim ao4.js 
+  518  cp ao4.js ao5.js
+  519  ls
+  520  vim ao5.js 
+  521  vim ao3.js 
+  522  cp ao1.js industry.js
+  523  vim index.js 
+  524  vim industry.js 
+  525  ls
+  526  cp dop.js compute.js
+  527  vim compute.js 
+  528  cp compute.js science.js
+  529  vim science.js 
+  530  cp science.js dorm.js;
+  531  cp science.js dorm.js
+  532  vim dorm.js 
+  533  ;s
+  534  ls
+  535  cp compute.js museum.js
+  536  vim museum.js 
+  537  cp science.js inter.js
+  538  vim inter.js 
+  539  ls
+  540  vim final.js
+  541  ls
+  542  cd ..
+  543  ls
+  544  cd views/
+  545  cp login.ejs final.ejs
+  546  vim final.ejs 
+  547  cp faculty.ejs final.ejs
+  548  ls
+  549  vim final.ejs 
+  550  cd ..
+  551  ls
+  552  cd routes/
+  553  ls
+  554  vim final.js 
+  555  cd ..
+  556  ls
+  557  cd views/
+  558  ls
+  559  vim faculty.ejs 
+  560  vim final.ejs 
+  561  vim left_banner.ejs 
+  562  cd ..
+  563  ls
+  564  cd routes/
+  565  ls
+  566  vim final.js 
+  567  cd ..
+  568  ls
+  569  cd views/
+  570  ls
+  571  vim left_banner.ejs 
+  572  ls
+  573  pm2 restart
+  574  pm2 restart 0
+  575  mysql -u root -p
+  576  pm2 restart 0
+  577  mysql -u root -p
+  578  pm2 restart 0
+  579  mysql -u root -p
+  580  vi ../routes/faculty.js
+  581  ls
+  582  cp students.ejs dop.ejs
+  583  vim dop.ejs
+  584  vim bsd.ejs
+  585  vim dop.ejs
+  586  vim bsd.ejs
+  587  cp UMD.ejs finance.ejs
+  588  vim finance.ejs
+  589  vim bsd.ejs
+  590  vim dop.ejs
+  591  vim students.ejs
+  592  vim left_banner.ejs
+  593  vim science.ejs
+  594  ls
+  595  cd ..
+  596  ls
+  597  cd routes/
+  598  ls
+  599  vim final.js
+  600  vim dop.ejs
+  601  cp students.ejs gad.ejs
+  602  vim gad.ejs
+  603  cp students.ejs facilities.ejs
+  604  vim facilities.ejs
+  605  vim bsd.ejs
+  606  vim dop.ejs
+  607  vim students.ejs professor.ejs
+  608  cp students.ejs professor.ejs
+  609  ls
+  610  vim students.ejs
+  611  vim professor.ejs
+  612  cp students.ejs lifelong.ejs
+  613  vim lifelong.ejs
+  614  vim left_banner.ejs
+  615  cp students.ejs collaborate.ejs
+  616  vim collaborate.ejs
+  617  vim lifelong.ejs
+  618  vim left_banner.ejs
+  619  cp students.ejs engineer.ejs
+  620  vim left_banner.ejs
+  621  vim engineer.ejs
+  622  vim collaborate.ejs
+  623  cp dop.ejs admission.ejs
+  624  vim left_banner.ejs
+  625  cp dop.ejs admission.ejs
+  626  ls
+  627  vim admission.ejs
+  628  vim left_banner.ejs
+  629  cp dop.ejs library.ejs
+  630  vim library.ejs
+  631  cp dop.ejs news.ejs
+  632  vim news.ejs
+  633  cp finance.ejs ao1.js
+  634  cp finance.ejs ao1.ejs
+  635  rm ao1.js
+  636  vim ao1.ejs
+  637  vim left_banner.ejs
+  638  cp ao1.ejs ao2.ejs
+  639  cp ao1.ejs ao3.ejs
+  640  cp ao1.ejs ao4.ejs
+  641  cp ao1.ejs ao5.ejs
+  642  vim ao2.ejs
+  643  vim ao3.ejs
+  644  vim ao4.ejs
+  645  vim ../routes/faculty.js
+  646  vim ao5.ejs
+  647  cp bsd.ejs industry.ejs
+  648  vim industry.ejs
+  649  vim left_banner.ejs
+  650  cp students.ejs dorm.ejs
+  651  cp students.ejs science.ejs
+  652  cp students.ejs inter.ejs
+  653  cp students.ejs museum.ejs
+  654  cp students.ejs compute.ejs
+  655  vim dorm.ejs
+  656  rm dorm.ejs
+  657  cp science.ejs dorm.ejs
+  658  vim dorm.ejs
+  659  rm inter.ejs
+  660  cp dorm.ejs inter.ejs
+  661  vim inter.ejs
+  662  rm museum.ejs
+  663  cp science.ejs museum.ejs
+  664  vim museum.ejs
+  665  cp museum.ejs compute.ejs
+  666  vim compute.ejs
+  667  vim faculty.ejs
+  668  ls
+  669  cp final.ejs final_back.ejs
+  670  vim final_back.ejs
+  671  debugfs /dev/fedora
+  672  ls
+  673  cd /dev/
+  674  ls
+  675  cd sda
+  676  df -t
+  677  df -T
+  678  debusgfs
+  679  debugfs
+  680  debugfs /dev/sdb1
+  681  debugfs /dev/mapper/fedora-root
+  682  cd /home/bokjun/node
+  683  ls
+  684  cat ada
+  685  XshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellq
+  686  XshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellXshellclear
+  687  clear
+  688  ls
+  689  vim ada.ejs
+  690  ls
+  691  vim ada.c
+  692  rm ada
+  693  ls
+  694  cat /proc/scsi/scs
+  695  cat /proc/scsi/scsi
+  696  ls
+  697  cd loginform/
+  698  ls
+  699  vim views/faculty.ejs
+  700  ls
+  701  vim routes/faculty.js
+  702  ls
+  703  vim routes/final.js
+  704  vim views/final.ejs
+  705  netstat -tulp
+  706  ls
+  707  service sshd status
+  708  vi /etc/sysconfig/iptables
+  709  iptables -I INPUT 1 -p tcp --dport 80 -j ACCEPT
+  710  iptables -I OUTPUT 1 -p tcp --dport 80 -j ACCEPT
+  711  LS
+  712  ls
+  713  vi /etc/ssh/sshd_config
+  714  ls
+  715  nestat -tnlp
+  716  netstats -tnlp
+  717  netstat -tnlp
+  718  netstat -tulp
+  719  service sshd restart
+  720  nestat -tnlp
+  721  netstat -tulp
+  722  netstat -nap
+  723  netstat -nap | grep 80
+  724  iptables -save
+  725  semanage port -l | grep ssh
+  726  vi /etc/ssh/sshd_config
+  727  netstat -tnlp
+  728  iptables -I INPUT 1 p tcp --dport 3306 -j ACCEPT
+  729  iptables -I INPUT 1 -p tcp --dport 3306 -j ACCEPT
+  730  iptables -I OUTPUT 1 -p tcp --dport 3306 -j ACCEPT
+  731  iptables -save
+  732  ls
+  733  cd node
+  734  ls
+  735  cd loginform/
+  736  ls
+  737  cd routes/
+  738  ls
+  739  vim faculty.js 
+  740  cd ..
+  741  vim faculty.js 
+  742  ls
+  743  cd routes/
+  744  vim faculty.js 
+  745  cd ..
+  746  ls
+  747  cd views/
+  748  ls
+  749  vim faculty.ejs
+  750  cd ..
+  751  ls
+  752  vim app.js 
+  753  ls
+  754  cd routes/
+  755  ls
+  756  vim faculty.js 
+  757  cd ..
+  758  ls
+  759  vim app.js 
+  760  cd routes/
+  761  ls
+  762  vim faculty.js 
+  763  ls
+  764  cd ..
+  765  ls
+  766  cd views/
+  767  ls
+  768  vim faculty.ejs 
+  769  ls
+  770  cd ..
+  771  ls
+  772  cd public/
+  773  ls
+  774  cd ..
+  775  cd node_modules/
+  776  ls
+  777  cd ..
+  778  ls
+  779  cd node_modules/
+  780  ls
+  781  cd jqgrid/
+  782  ;s
+  783  ls
+  784  cd css
+  785  ls
+  786  cd ..
+  787  ls
+  788  cd js
+  789  ls
+  790  cmd
+  791  pwd
+  792  ls
+  793  cd ..
+  794  ls
+  795  cd css
+  796  ls
+  797  pwd
+  798  cd ..
+  799  l
+  800  ls
+  801  cd ..
+  802  ls
+  803  cd jquery
+  804  ls
+  805  cd src
+  806  ls
+  807  cd ajax/
+  808  ls
+  809  cd ..
+  810  ls
+  811  cd ..
+  812  ls
+  813  cd ..
+  814  ls
+  815  cd ..
+  816  ls
+  817  cd routes/
+  818  ls
+  819  vim faculty.js 
+  820  cd ..
+  821  ls
+  822  vim app.js 
+  823  cd routes/
+  824  ls
+  825  vim faculty.js 
+  826  ls
+  827  vim faculty.js 
+  828  cd ..
+  829  ls
+  830  cd views/
+  831  ls
+  832  vim faculty.ejs 
+  833  ls
+  834  cd ..
+  835  ls
+  836  cd routes/
+  837  ls
+  838  vim faculty.js 
+  839  cd ..
+  840  ls
+  841  cd views/
+  842  ;s
+  843  ls
+  844  vim UMD.ejs 
+  845  vim faculty.ejs 
+  846  netstat -tnlp
+  847  iptable - iptables -I INPUT 1 -p tcp --dport 80 -j ACCEPT
+  848  iptables -I iptables -I INPUT 1 -p tcp --dport 80 -j ACCEPT
+  849  iptables -i iptables -I INPUT 1 -p tcp --dport 80 -j ACCEPT
+  850  iptables -I INPUT 1 -p tcp --dport 80 -j ACCEPT
+  851  iptables -I OUTPUT 1 -p tcp --dport 80 -j ACCEPT
+  852  apt -get install git
+  853  yum  install git
+  854  ls
+  855  cd node
+  856  ls
+  857  mkdir git
+  858  ls
+  859  cd git/
+  860  git init
+  861  git clone http://220.230.112.184:1004/jcm/schoolweb.git
+  862  ls
+  863  cd schoolweb/
+  864  ls
+  865  cd schoolWebData/
+  866  ls
+  867  cd WebContent/
+  868  ls
+  869  cd ..
+  870  ls
+  871  cd ..
+  872  ls
+  873  cd schoolWebData/
+  874  cd ..
+  875  cd schoolWebData/
+  876  ls
+  877  pwd
+  878  rm -f
+  879  rm -rf
+  880  rm -rf *
+  881  ls
+  882  cd ..
+  883  cd Dump20180227/
+  884  rm -rf *
+  885  ls
+  886  cd ..
+  887  ls
+  888  schoolWebData/
+  889  git add *
+  890  git commit -m "backup_school"
+  891  git config --global user.name "jcm"
+  892  git config --global user.email "gstar120@a.ut.ac.kr"
+  893  git push origin master
+  894  cd Dump20180227/
+  895  ls
+  896  cd ..
+  897  ls
+  898  git pull http://220.230.112.184:1004/jcm/schoolweb.git
+  899  ls
+  900  cd schoolWebData/
+  901  ls
+  902  cd ..
+  903  ls
+  904  git clone http://220.230.112.184:1004/jcm/schoolweb.git
+  905  ls
+  906  cd ..
+  907  ls
+  908  rm -rf ./*
+  909  git clone http://220.230.112.184:1004/jcm/schoolweb.git
+  910  ls
+  911  cd schoolweb/
+  912  ls
+  913  ll Dump20180227/
+  914  ls
+  915  cd Dump20180227/
+  916  ls
+  917  git rm *
+  918  ls
+  919  cd ..
+  920  ls
+  921  cd ..
+  922  ls
+  923  rm -rf *
+  924  git clone http://220.230.112.184:1004/jcm/schoolweb.git
+  925  ls
+  926  cd schoolweb/
+  927  ls
+  928  cd Dump20180227/
+  929  ls
+  930  git rm ./*
+  931  ls
+  932  cd ..
+  933  ls
+  934  cd  schoolWebData/
+  935  ls
+  936  git rm ./*
+  937  git -rm ./*
+  938  ls
+  939  git -rm *
+  940  ls
+  941  git rm /*~
+  942  ls
+  943  git rm ./*~
+  944  git rm ./*
+  945  git -rm ./*
+  946  git rm  -rf ./*
+  947  ls
+  948  cd ..
+  949  ls
+  950  git rm -rf ./*
+  951  ls
+  952  git commit -m "delete backup"
+  953  ls
+  954  git rm -f cached
+  955  git push origin master
+  956  ls
+  957  git pull http://220.230.112.184:1004/jcm/schoolweb.git
+  958  ls
+  959  cp /home/bokjun/schoolWebData/ ./
+  960  cp -rf /home/bokjun/schoolWebData/ ./
+  961  ls
+  962  cp -rf /home/bokjun/dumps/Dump20180227 ./
+  963  ls
+  964  cd schoolWebData/
+  965  ls
+  966  cd src
+  967  ls
+  968  cd ..
+  969  ls
+  970  cd ..
+  971  ls
+  972  git add *
+  973  git commit -m "add backup src"
+  974  git push origin master
+  975  ls
+  976  cd schoolWebData/
+  977  ls
+  978  cd ..
+  979  ls
+  980  cd Dump20180227/
+  981  ls
+  982  vim schoolData_입력확인.sql 
+  983  git add *
+  984  git commit -m "add backup src"
+  985  git push origin master
+  986  vim schoolData_입력확인.sql 
+  987  ls
+  988  cp schoolData_입력확인.sql schoolData_입력확인2.sql
+  989  ls
+  990  pwd
+  991  ls
+  992  ll
+  993  ls
+  994  cd ..
+  995  ls
+  996  ll
+  997  chown -R bokjun:bokjun ./*
+  998  ls
+  999  ll
+ 1000  니
+ 1001  git add *
+ 1002  git commit -m "add backup src"
+ 1003  git push origin master
+ 1004  history >> yyy
